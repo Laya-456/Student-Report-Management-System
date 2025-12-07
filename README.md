@@ -25,12 +25,12 @@ Concepts: File Handling, Dynamic Memory Allocation, String Parsing
 Data Storage: Text files (students.txt, credentials.txt)
 User Access System: Role-based permissions
 
-**Project File Structure**
-Student_Report_Management_System/
-│── srms.c
-│── srms.exe          (generated after compilation)
-│── credentials.txt   (stores usernames, passwords, roles)
-│── students.txt      (stores student records)
+**Project File Structure**                                                                                                                                          
+Student_Report_Management_System/                                                                                                                                   
+│── srms.c                                                                                                                                                          
+│── srms.exe          (generated after compilation)                                                                                                                
+│── credentials.txt   (stores usernames, passwords, roles)                                                                                                          
+│── students.txt      (stores student records)                                                                                                                      
 
 **How to Run**
 Clone or download this repository.
