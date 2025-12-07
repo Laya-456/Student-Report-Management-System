@@ -1,4 +1,5 @@
-630, rishitha, cse, 9.30, second/03
-636, Layachandana, cse, 9.40, second/03
-661, kundana, cse, 9.40, second/03
-642, pragnya sree, cse, 9.40, second/03
+630, ramya, cse, 9.30, second/03
+636, chandhini, cse, 9.40, second/03
+661, priya, cse, 9.40, second/03
+642, mounika, cse, 9.40, second/03
+
